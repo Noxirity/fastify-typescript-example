@@ -4,7 +4,7 @@ Follow these steps to get the project up and running:
 
 #### 1. Install Dependencies
 
-First, ensure all project dependencies are installed by running:
+First, ensure all project dependencies are installed by running the following. This will install [fastify](https://www.npmjs.com/package/fastify), [TypeScript](https://www.npmjs.com/package/typescript) & [@types/node](https://www.npmjs.com/package/@types/node)
 
 ```bash
 npm install
